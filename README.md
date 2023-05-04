@@ -22,8 +22,8 @@
 # GitHub Stats
 <div align="center">
   
-![refactoringK's GitHub stats](https://github-readme-stats.vercel.app/api?username=refactoringK&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=refactoringK&layout=compact&theme=ocean_dark&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+![EllyKimHub's GitHub stats](https://github-readme-stats.vercel.app/api?username=EllyKimHub&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EllyKimHub&layout=compact&theme=ocean_dark&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
@@ -34,7 +34,7 @@
 </div>
 
 <!--
-**refactoringK/refactoringK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EllyKimHub/EllyKimHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
