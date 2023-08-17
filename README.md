@@ -35,9 +35,10 @@
 
 
 # Team Projects
-1st : https://github.com/EllyKimHub/pandang
-</br>
-2nd : https://github.com/EllyKimHub/mealme
+| Ordinal Number | Logo | Link |
+| :---: | :---: | :---: |
+| 1st | ![pandangLogo](https://github.com/EllyKimHub/EllyKimHub/assets/123884116/da48da9d-d9dc-45d1-8242-acddecc74b7d) | https://github.com/EllyKimHub/pandang |
+| 2nd | ![mealme logo](https://github.com/EllyKimHub/EllyKimHub/assets/123884116/79c305b3-e6d6-4af3-b7ee-dcb285a59440) | https://github.com/EllyKimHub/mealme |
 
 <!--
 **EllyKimHub/EllyKimHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
