@@ -33,6 +33,12 @@
    
 </div>
 
+
+![pandangLogo](https://github.com/EllyKimHub/EllyKimHub/assets/123884116/3168a96b-f394-48bb-86fc-bc5f4a8cc81c)
+
+![mealme logo](https://github.com/EllyKimHub/EllyKimHub/assets/123884116/d9d81bdb-8800-47ca-a526-3c2b9198616c)
+
+
 <!--
 **EllyKimHub/EllyKimHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
