@@ -37,8 +37,8 @@
 # Team Projects
 | Ordinal Number | Logo | Link |
 | :---: | :---: | :---: |
-| 1st | ![pandangLogo](https://github.com/EllyKimHub/EllyKimHub/assets/123884116/da48da9d-d9dc-45d1-8242-acddecc74b7d) | https://github.com/EllyKimHub/pandang |
-| 2nd | ![mealme logo](https://github.com/EllyKimHub/EllyKimHub/assets/123884116/79c305b3-e6d6-4af3-b7ee-dcb285a59440) | https://github.com/EllyKimHub/mealme |
+| 1st | <img src = "https://github.com/EllyKimHub/EllyKimHub/assets/123884116/dc004edf-af41-4731-839d-737fb58a9169.png" width="300"> | https://github.com/EllyKimHub/pandang |
+| 2nd | <img src = "https://github.com/EllyKimHub/EllyKimHub/assets/123884116/a14b8ef9-d3b9-4811-a87f-aca24f3e9df4.png" width="300"> | https://github.com/EllyKimHub/mealme |
 
 <!--
 **EllyKimHub/EllyKimHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
